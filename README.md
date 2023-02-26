@@ -1,2 +1,2 @@
-# SPOT-FY5
+# SPOTİFY5
 Spotify Project
